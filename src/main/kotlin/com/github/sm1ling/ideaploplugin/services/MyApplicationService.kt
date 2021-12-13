@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sm1ling.ideaploplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sm1ling.ideaploplugin.MyBundle
 
 class MyApplicationService {
 
